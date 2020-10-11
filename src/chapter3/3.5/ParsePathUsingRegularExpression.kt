@@ -1,6 +1,5 @@
 package chapter3.ParsePathUsingRegularExpression
 
-
 fun parsePath(path: String) {
     val regex = """(.+)/(.+)\.(.+)""".toRegex()
     val matchResult = regex.matchEntire(path)
