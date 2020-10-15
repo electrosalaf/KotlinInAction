@@ -1,3 +1,5 @@
+// This is a test comment, I'm practicing with git!!!
+
 package chapter4.ObjectDeclarationsSingletonsMadeEasy
 
 import java.io.File
