@@ -1,6 +1,2 @@
 # Default ignored files
-.gitignore
-.idea/
-*.xml
 /workspace.xml
-out/
